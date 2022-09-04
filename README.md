@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted here https://heartfelt-daifuku-a7113a.netlify.app/
 
 ## Available Scripts
 
